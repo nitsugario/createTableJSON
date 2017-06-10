@@ -1,0 +1,161 @@
+
+.fht-table{
+	border: 0 none;
+	height: auto;
+	width: auto;
+	border-collapse: collapse;
+	border-spacing: 0;
+	table-layout: fixed; /* Algoritmo de distribucion fijo */
+    white-space:nowrap;  /* Impide los saltos de línea automáticos */
+}
+
+.ContenedorTabla {
+	height: 400px;
+	margin: 0 auto;
+	overflow: auto;
+	width: 1024px;
+	position: relative;
+}
+
+caption.caption{
+	font-size: 13px;
+	font-weight: bold;
+	font-family: cursive;
+	color: #c5c5c5;
+	padding-bottom: 5px;
+}
+
+.header, .main {
+    display: inline-block;
+    height: auto;
+    width: 100%;
+}
+.titulosHeader {
+    border-bottom: 1px solid #e8bb25;
+    height: auto;
+    margin-bottom: 10px;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    width: 100%;
+} 
+
+.celda_encabezado_general {
+    background-color: #003399;
+    border: 1px solid #ccc;
+    color: #ffffff;
+    font-weight: bold;
+    padding: 2px 4px;
+    text-align: center;
+}
+._Separador{
+	background-color: #fff;
+	height: 12px;
+	border-left: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+	width: 7px;
+}
+._Separador div{
+	width: 4px;
+}
+.celda_normal {
+    /*background-color: #fff;*/
+    border: 1px solid #ccc;
+    padding: 2px 4px;
+}
+
+.excel_cell{
+	border: 1px solid #CCC;
+	color: #222;
+	text-align: center;
+	font-size: 13px;
+	font-weight:  normal;
+	padding: 4px;
+	white-space: pre-line;
+	empty-cells: show;
+}
+._cell_header{
+	background-color: #EEE;
+	font-weight: bold;
+	font-size: 15px;
+}
+._cell_Default{
+	background-color: #FFF;
+	text-align: left;
+}
+
+.excel_cell div{
+	width: 30px;
+	height: 20px;
+}
+
+.celda_popup{
+	border: 1px solid #ccc;
+    padding: 4px;
+    position: relative;
+}
+/* Popup container - can be anything you want */
+.popup {
+    background-color: blue;
+    border-radius: 11px;
+    color: white;
+    font-size: 10px;
+    height: 12px;
+    left: -2px;
+    position: absolute;
+    text-align: center;
+    top: -4px;
+    vertical-align: middle;
+    width: 12px;
+    display: inline-block;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+/* The actual popup */
+.popup .popuptext {
+    visibility: hidden;
+    width: 160px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 8px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -80px;
+}
+
+/* Popup arrow */
+.popup .popuptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+
+/* Toggle this class - hide and show the popup */
+.popup .show {
+    visibility: visible;
+    -webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s;
+}
+
+/* Add animation (fade in the popup) */
+@-webkit-keyframes fadeIn {
+    from {opacity: 0;} 
+    to {opacity: 1;}
+}
+
+@keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity:1 ;}
+}

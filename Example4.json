@@ -1,0 +1,384 @@
+{
+	"Table": {
+		"Id": "Example4",
+		"Class":"fht-table",
+		"Caption":{
+			"Style": "display: table-caption;caption-side: bottom;text-align: left;padding-top: 8px;font-weight: bold;",
+			"Html":"Table Example 4...."
+		},
+		"Colgroup":{
+			"Col": [
+				{
+					"Style": "background-color:#ccc;border: 1px solid #fff;",
+					"Span": "2"
+				},
+				{
+					"Style": "background-color:#00cccc;border: 1px solid #fff;",
+					"Span": "2"
+				},
+				{
+					"Style": "background-color:#0033ff;border: 1px solid #fff;",
+					"Span": "1"
+				}
+			]
+		},
+		"Thead":{
+			"Type":"thead",
+			"Rows":[
+				{
+					"Cells":[
+						{
+							"Class": "excel_cell _cell_header",
+							"Type":"th",
+							"Html":"Titulo 1"
+						},
+						{
+							"Class": "excel_cell _cell_header",
+							"Type":"th",
+							"Html":"Titulo 2"
+						},
+						{
+							"Class": "excel_cell _cell_header",
+							"Type":"th",
+							"Html":"Titulo 3"
+						},
+						{
+							"Class": "excel_cell _cell_header",
+							"Type":"th",
+							"Html":"Titulo 4"
+						},
+						{
+							"Class": "excel_cell _cell_header",
+							"Type":"th",
+							"Html":"Titulo 5"
+						}
+					]
+				}
+			]
+		},
+		"Tbody": {
+			"Type":"tbody",
+			"Rows":[
+				{
+					"Cells":[
+						{
+							"Style": "border: 1px solid #fff;text-align: center;",
+							"Type":"td",
+							"Html":"0.0"
+						},
+						{
+							"Style": "border: 1px solid #fff;text-align: center;",
+							"Type":"td",
+							"Html":"0.0"
+						},
+						{
+							"Style": "border: 1px solid #fff;",
+							"Type":"td",
+							"Html":"0.0"
+						},
+						{
+							"Style": "border: 1px solid #fff;",
+							"Type":"td",
+							"Html":"0.0"
+						},
+						{
+							"Style": "border: 1px solid #fff;",
+							"Type":"td",
+							"Html":"0.0"
+						}
+					]
+				},
+				{
+					"Cells":[
+						{
+							"Style": "border: 1px solid #fff;text-align: center;",
+							"Type":"td",
+							"Html":"0.0"
+						},
+						{
+							"Style": "border: 1px solid #fff;text-align: center;",
+							"Type":"td",
+							"Html":"0.0"
+						},
+						{
+							"Style": "border: 1px solid #fff;",
+							"Type":"td",
+							"Html":"0.0"
+						},
+						{
+							"Style": "border: 1px solid #fff;",
+							"Type":"td",
+							"Html":"0.0"
+						},
+						{
+							"Style": "border: 1px solid #fff;",
+							"Type":"td",
+							"Html":"0.0"
+						}
+					]
+				},
+				{
+					"Cells":[
+						{
+							"Style": "border: 1px solid #fff;text-align: center;",
+							"Type":"td",
+							"Html":"0.0"
+						},
+						{
+							"Style": "border: 1px solid #fff;text-align: center;",
+							"Type":"td",
+							"Html":"0.0"
+						},
+						{
+							"Style": "border: 1px solid #fff;",
+							"Type":"td",
+							"Html":"0.0"
+						},
+						{
+							"Style": "border: 1px solid #fff;",
+							"Type":"td",
+							"Html":"0.0"
+						},
+						{
+							"Style": "border: 1px solid #fff;",
+							"Type":"td",
+							"Html":"0.0"
+						}
+					]
+				},
+				{
+					"Cells":[
+						{
+							"Style": "border: 1px solid #fff;text-align: center;",
+							"Type":"td",
+							"Html":"0.0"
+						},
+						{
+							"Style": "border: 1px solid #fff;text-align: center;",
+							"Type":"td",
+							"Html":"0.0"
+						},
+						{
+							"Style": "border: 1px solid #fff;",
+							"Type":"td",
+							"Html":"0.0"
+						},
+						{
+							"Style": "border: 1px solid #fff;",
+							"Type":"td",
+							"Html":"0.0"
+						},
+						{
+							"Style": "border: 1px solid #fff;",
+							"Type":"td",
+							"Html":"0.0"
+						}
+					]
+				},
+				{
+					"Cells":[
+						{
+							"Style": "border: 1px solid #fff;text-align: center;",
+							"Type":"td",
+							"Html":"0.0"
+						},
+						{
+							"Style": "border: 1px solid #fff;text-align: center;",
+							"Type":"td",
+							"Html":"0.0"
+						},
+						{
+							"Style": "border: 1px solid #fff;",
+							"Type":"td",
+							"Html":"0.0"
+						},
+						{
+							"Style": "border: 1px solid #fff;",
+							"Type":"td",
+							"Html":"0.0"
+						},
+						{
+							"Style": "border: 1px solid #fff;",
+							"Type":"td",
+							"Html":"0.0"
+						}
+					]
+				},
+				{
+					"Cells":[
+						{
+							"Style": "border: 1px solid #fff;text-align: center;",
+							"Type":"td",
+							"Html":"0.0"
+						},
+						{
+							"Style": "border: 1px solid #fff;text-align: center;",
+							"Type":"td",
+							"Html":"0.0"
+						},
+						{
+							"Style": "border: 1px solid #fff;",
+							"Type":"td",
+							"Html":"0.0"
+						},
+						{
+							"Style": "border: 1px solid #fff;",
+							"Type":"td",
+							"Html":"0.0"
+						},
+						{
+							"Style": "border: 1px solid #fff;",
+							"Type":"td",
+							"Html":"0.0"
+						}
+					]
+				},
+				{
+					"Cells":[
+						{
+							"Style": "border: 1px solid #fff;text-align: center;",
+							"Type":"td",
+							"Html":"0.0"
+						},
+						{
+							"Style": "border: 1px solid #fff;text-align: center;",
+							"Type":"td",
+							"Html":"0.0"
+						},
+						{
+							"Style": "border: 1px solid #fff;",
+							"Type":"td",
+							"Html":"0.0"
+						},
+						{
+							"Style": "border: 1px solid #fff;",
+							"Type":"td",
+							"Html":"0.0"
+						},
+						{
+							"Style": "border: 1px solid #fff;",
+							"Type":"td",
+							"Html":"0.0"
+						}
+					]
+				},
+				{
+					"Cells":[
+						{
+							"Style": "border: 1px solid #fff;text-align: center;",
+							"Type":"td",
+							"Html":"0.0"
+						},
+						{
+							"Style": "border: 1px solid #fff;text-align: center;",
+							"Type":"td",
+							"Html":"0.0"
+						},
+						{
+							"Style": "border: 1px solid #fff;",
+							"Type":"td",
+							"Html":"0.0"
+						},
+						{
+							"Style": "border: 1px solid #fff;",
+							"Type":"td",
+							"Html":"0.0"
+						},
+						{
+							"Style": "border: 1px solid #fff;",
+							"Type":"td",
+							"Html":"0.0"
+						}
+					]
+				},
+				{
+					"Cells":[
+						{
+							"Style": "border: 1px solid #fff;text-align: center;",
+							"Type":"td",
+							"Html":"0.0"
+						},
+						{
+							"Style": "border: 1px solid #fff;text-align: center;",
+							"Type":"td",
+							"Html":"0.0"
+						},
+						{
+							"Style": "border: 1px solid #fff;",
+							"Type":"td",
+							"Html":"0.0"
+						},
+						{
+							"Style": "border: 1px solid #fff;",
+							"Type":"td",
+							"Html":"0.0"
+						},
+						{
+							"Style": "border: 1px solid #fff;",
+							"Type":"td",
+							"Html":"0.0"
+						}
+					]
+				},
+				{
+					"Cells":[
+						{
+							"Style": "border: 1px solid #fff;text-align: center;",
+							"Type":"td",
+							"Html":"0.0"
+						},
+						{
+							"Style": "border: 1px solid #fff;text-align: center;",
+							"Type":"td",
+							"Html":"0.0"
+						},
+						{
+							"Style": "border: 1px solid #fff;",
+							"Type":"td",
+							"Html":"0.0"
+						},
+						{
+							"Style": "border: 1px solid #fff;",
+							"Type":"td",
+							"Html":"0.0"
+						},
+						{
+							"Style": "border: 1px solid #fff;",
+							"Type":"td",
+							"Html":"0.0"
+						}
+					]
+				},
+				{
+					"Cells":[
+						{
+							"Style": "border: 1px solid #fff;text-align: center;",
+							"Type":"td",
+							"Html":"0.0"
+						},
+						{
+							"Style": "border: 1px solid #fff;text-align: center;",
+							"Type":"td",
+							"Html":"0.0"
+						},
+						{
+							"Style": "border: 1px solid #fff;",
+							"Type":"td",
+							"Html":"0.0"
+						},
+						{
+							"Style": "border: 1px solid #fff;",
+							"Type":"td",
+							"Html":"0.0"
+						},
+						{
+							"Style": "border: 1px solid #fff;",
+							"Type":"td",
+							"Html":"0.0"
+						}
+					]
+				}
+			]
+		}
+	}
+}

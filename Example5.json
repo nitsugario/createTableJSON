@@ -1,0 +1,147 @@
+{
+	"Table": {
+		"Id": "Example5",
+		"Class":"fht-table",
+		"Caption":{
+			"Html":"Table Example 5...."
+		},
+		"RowsFree":{
+			"Type":"RowsFree",
+			"Rows":[
+				{
+					"Cells":[
+						{
+							"Class": "excel_cell _cell_header",
+							"Type":"th",
+							"Html":"Titulo 1"
+						},
+						{
+							"Class": "excel_cell _cell_header",
+							"Type":"th",
+							"Html":"Titulo 2"
+						},
+						{
+							"Class": "excel_cell _cell_header",
+							"Type":"th",
+							"Html":"Titulo 3"
+						}
+					]
+				},
+				{
+					"Cells":[
+						{
+							"Class": "excel_cell _cell_Default",
+							"Type":"td",
+							"Html":"00,0"
+						},
+						{
+							"Class": "excel_cell _cell_Default",
+							"Type":"td",
+							"Html":"00,0"
+						},
+						{
+							"Class": "excel_cell _cell_Default",
+							"Type":"td",
+							"Html":"00,0"
+						}
+					]
+				},
+				{
+					"Cells":[
+						{
+							"Class": "excel_cell _cell_Default",
+							"Type":"td",
+							"Html":"00,0"
+						},
+						{
+							"Class": "excel_cell _cell_Default",
+							"Type":"td",
+							"Html":"00,0"
+						},
+						{
+							"Class": "excel_cell _cell_Default",
+							"Type":"td",
+							"Html":"00,0"
+						}
+					]
+				},
+				{
+					"Cells":[
+						{
+							"Class": "excel_cell _cell_Default",
+							"Type":"td",
+							"Html":"00,0"
+						},
+						{
+							"Class": "excel_cell _cell_Default",
+							"Type":"td",
+							"Html":"00,0"
+						},
+						{
+							"Class": "excel_cell _cell_Default",
+							"Type":"td",
+							"Html":"00,0"
+						}
+					]
+				},
+				{
+					"Cells":[
+						{
+							"Class": "excel_cell _cell_Default",
+							"Type":"td",
+							"Html":"00,0"
+						},
+						{
+							"Class": "excel_cell _cell_Default",
+							"Type":"td",
+							"Html":"00,0"
+						},
+						{
+							"Class": "excel_cell _cell_Default",
+							"Type":"td",
+							"Html":"00,0"
+						}
+					]
+				},
+				{
+					"Cells":[
+						{
+							"Class": "excel_cell _cell_Default",
+							"Type":"td",
+							"Html":"00,0"
+						},
+						{
+							"Class": "excel_cell _cell_Default",
+							"Type":"td",
+							"Html":"00,0"
+						},
+						{
+							"Class": "excel_cell _cell_Default",
+							"Type":"td",
+							"Html":"00,0"
+						}
+					]
+				},
+				{
+					"Cells":[
+						{
+							"Class": "excel_cell _cell_header",
+							"Type":"td",
+							"Html":"00,0"
+						},
+						{
+							"Class": "excel_cell _cell_header",
+							"Type":"td",
+							"Html":"00,0"
+						},
+						{
+							"Class": "excel_cell _cell_header",
+							"Type":"td",
+							"Html":"00,0"
+						}
+					]
+				}
+			]
+		}
+	}
+}

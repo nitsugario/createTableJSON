@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<title>Crea Tabla de JSON</title>
+	<link rel="stylesheet" type="text/css" href="Tablas.css">
+</head>
+	<section>
+		<div id="contenedorTable1"></div>
+		<br>
+		<br>
+		<br>
+		<div id="contenedorTable2"></div>
+		<br>
+		<br>
+		<br>
+		<div id="contenedorTable3"></div>
+		<br>
+		<br>
+		<br>
+		<div id="contenedorTable4"></div>
+		<br>
+		<br>
+		<br>
+		<div id="contenedorTable5"></div>
+		<br>
+		<br>
+		<br>
+		<div id="contenedorTable6"></div>
+	</section>
+	<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+	<script src="createTableJSON.js"></script>
+	<script type="text/javascript">
+		$("#contenedorTable1").createTableJSON({url: "Example1.json"});
+		$("#contenedorTable2").createTableJSON({url: "Example2.json"});
+		$("#contenedorTable3").createTableJSON({url: "Example3.json"});
+		$("#contenedorTable4").createTableJSON({url: "Example4.json"});
+		$("#contenedorTable5").createTableJSON({url: "Example5.json"});
+		$("#contenedorTable6").createTableJSON({url: "Example6.json"});
+	</script>
+</body>
+</html>

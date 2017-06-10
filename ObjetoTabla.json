@@ -1,0 +1,296 @@
+{
+	"Table": {
+		"Id": "TablaPrueba",
+		
+		"Style": "border:1px solid;",
+		"Css":{
+			"border":"table/td/th",
+			"border-collapse":"",
+			"padding":"table/td/th",
+			"text-align":"table/td/th",
+			"border-spacing":"",
+			"height":"table/td/th",
+			"width":"table/td/th",
+			"background-color":"table/td/th",
+			"color":"table/td/th",
+			"table-layout":"",
+			"vertical-align":"td/th",
+			"hover":"table/tr/td/th",
+			"nth-child":"tr",
+			"caption-side":"caption",
+			"empty-cells":"td/th"
+		},
+		"Tabindex":"2",
+		"Sortable":"false",
+		"Accesskey":"r",
+		"Title":"esta es una prueba",
+		"Caption":{
+			"Id": "",
+			"Class": "",
+			"Style":"",
+			"Text":""
+		},
+		"Colgroup":{
+			"Id": "",
+			"Class": "",
+			"Style": "",
+			"Span": "",
+			"Col": [
+				{
+					"Id": "",
+					"Class": "",
+					"Style": "",
+					"Span": ""
+				},
+				{
+					"Id": "",
+					"Class": "",
+					"Style": "",
+					"Span": ""
+				}
+			]
+		},
+		"RowsFree": {
+			"Type":"RowsFree",
+			"Id": "",
+			"Class": "",
+			"Style": "",
+			"Tabindex":"",
+			"Accesskey":"",
+			"Title":"",
+			"AttributesAdd":[],
+			"Rows":[
+				{
+					"Id": "f1",
+					"Class": "",
+					"Style": "",
+					"Tabindex":"",
+					"Accesskey":"",
+					"Title":"",
+					"AttributesAdd":[],
+					"Event":[],
+					"Cells":[
+						{
+							"Id": "call11",
+							"Class": "",
+							"Style": "border:1px solid;",
+							"Tabindex":"",
+							"Accesskey":"",
+							"Title":"",
+							"DataType":"",
+							"Type":"th",
+							"Abbr":"",
+							"Scope":"",
+							"Sorted":"",
+							"Colspan":"",
+							"Rowspan":"",
+							"Headers":"",
+							"Html":"1,1",
+							"Value":"",
+							"AttributesAdd":[],
+							"Event":[]
+						},
+						{
+							"Id": "cell12",
+							"Class": "",
+							"Style": "border:1px solid;",
+							"Tabindex":"",
+							"Accesskey":"",
+							"Title":"",
+							"DataType":"",
+							"Type":"th",
+							"Abbr":"",
+							"Scope":"",
+							"Sorted":"",
+							"Colspan":"",
+							"Rowspan":"",
+							"Headers":"",
+							"Html":"1,2",
+							"Value":"",
+							"AttributesAdd":[],
+							"Event":[]
+						}
+					]
+				},
+				{
+					"Id": "f2",
+					"Class": "",
+					"Style": "",
+					"Tabindex":"",
+					"Accesskey":"",
+					"Title":"",
+					"AttributesAdd":[],
+					"Event":[],
+					"Cells":[
+						{
+							"Id": "call21",
+							"Class": "",
+							"Style": "border:1px solid;",
+							"Tabindex":"",
+							"Accesskey":"",
+							"Title":"",
+							"DataType":"",
+							"Type":"td",
+							"Abbr":"",
+							"Scope":"",
+							"Sorted":"",
+							"Colspan":"",
+							"Rowspan":"",
+							"Headers":"",
+							"Html":"2,1",
+							"Value":"",
+							"AttributesAdd":[],
+							"Event":[]
+						},
+						{
+							"Id": "cell22",
+							"Class": "",
+							"Style": "border:1px solid;",
+							"Tabindex":"",
+							"Accesskey":"",
+							"Title":"",
+							"DataType":"",
+							"Type":"td",
+							"Abbr":"",
+							"Scope":"",
+							"Sorted":"",
+							"Colspan":"",
+							"Rowspan":"",
+							"Headers":"",
+							"Html":"2,2",
+							"Value":"",
+							"AttributesAdd":[],
+							"Event":[]
+						}
+					]
+				}
+			]
+		},
+		"Thead":{
+			"Type":"thead",
+			"Id": "",
+			"Class": "",
+			"Style": "",
+			"Tabindex":"",
+			"Accesskey":"",
+			"Title":"",
+			"AttributesAdd":[],
+			"Rows":[
+				{
+					"Id": "",
+					"Class": "",
+					"Style": "",
+					"Tabindex":"",
+					"Accesskey":"",
+					"Title":"",
+					"AttributesAdd":[],
+					"Event":[],
+					"Cells":[
+						{
+							"Id": "",
+							"Class": "",
+							"Style": "",
+							"Tabindex":"",
+							"Accesskey":"",
+							"Title":"",
+							"DataType":"",
+							"Type":"th",
+							"Abbr":"",
+							"Scope":"",
+							"Sorted":"",
+							"Colspan":"",
+							"Rowspan":"",
+							"Headers":"",
+							"Html":"",
+							"Value":"",
+							"AttributesAdd":[],
+							"Event":[]
+						}
+					]
+				}
+			]
+		},
+		"Tbody": {
+			"Type":"tbody",
+			"Id": "",
+			"Class": "",
+			"Style": "",
+			"Tabindex":"",
+			"Accesskey":"",
+			"Title":"",
+			"AttributesAdd":[],
+			"Rows":[
+				{
+					"Id": "",
+					"Class": "",
+					"Style": "",
+					"Tabindex":"",
+					"Accesskey":"",
+					"Title":"",
+					"AttributesAdd":[],
+					"Event":[],
+					"Cells":[
+						{
+							"Id": "",
+							"Class": "",
+							"Style": "",
+							"Tabindex":"",
+							"Accesskey":"",
+							"Title":"",
+							"DataType":"",
+							"Type":"td",
+							"Colspan":"",
+							"Rowspan":"",
+							"Headers":"",
+							"Html":"",
+							"Value":"",
+							"AttributesAdd":[],
+							"Event":[]
+						}
+					]
+				}
+			]
+		},
+		"Tfoot": {
+			"Type":"tfoot",
+			"Id": "",
+			"Class": "",
+			"Style": "",
+			"Tabindex":"",
+			"Accesskey":"",
+			"Title":"",
+			"AttributesAdd":[],
+			"Rows":[
+				{
+					"Id": "",
+					"Class": "",
+					"Style": "",
+					"Tabindex":"",
+					"Accesskey":"",
+					"Title":"",
+					"AttributesAdd":[],
+					"Event":[],
+					"Cells":[
+						{
+							"Id": "",
+							"Class": "",
+							"Style": "",
+							"Tabindex":"",
+							"Accesskey":"",
+							"Title":"",
+							"DataType":"",
+							"Type":"td",
+							"Colspan":"",
+							"Rowspan":"",
+							"Headers":"",
+							"Html":"",
+							"Value":"",
+							"AttributesAdd":[],
+							"Event":[]
+						}
+					]
+				}
+			]
+		}
+	}
+}
